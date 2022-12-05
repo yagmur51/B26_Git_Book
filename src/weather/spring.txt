@@ -1,0 +1,10 @@
+
+
+What is your favorite season?
+
+autumn/fall
+winter
+spring
+summer
+
+Mine is spring.
